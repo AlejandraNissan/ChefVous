@@ -1,0 +1,28 @@
+{
+  "name": "chefvous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scss": "node-sass --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandraNissan/ChefVous.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandraNissan/ChefVous/issues"
+  },
+  "homepage": "https://github.com/AlejandraNissan/ChefVous#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "bulma": "^0.9.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "node-sass": "^6.0.1",
+    "sass": "^1.38.0"
+  }
+}
